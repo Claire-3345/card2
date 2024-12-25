@@ -1,0 +1,24 @@
+body{
+    margin: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+flexbox{
+    border:solid; 5 px;
+    padding: 10px;
+    border-radius:5%;
+    color: aqua;
+    background: fixed;
+    display: flex;
+    margin: 100px 50px 80px 50px;
+    justify-content:space-around;
+    background: plum;
+    bottom:black 10px;
+}
+div{
+    margin-left: 50px;
+    text-align: center;
+}
+
